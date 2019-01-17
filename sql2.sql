@@ -1,0 +1,1 @@
+SELECT name FROM employees WHERE id != managerId AND managerId;
